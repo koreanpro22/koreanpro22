@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark&border_radius=8&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreanpro22&show_icons=true&theme=tokyonight)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
 
