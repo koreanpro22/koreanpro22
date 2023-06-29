@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark&border_radius=8&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=koreanpro22&theme=dark&border_radius=8&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreanpro22&show_icons=true&theme=tokyonight)
 
