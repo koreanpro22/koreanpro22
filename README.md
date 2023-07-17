@@ -1,19 +1,13 @@
 ### Hi there 👋
 
-<!--
-**koreanpro22/koreanpro22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :man_technologist: About Me :
+I am a Full Stack Developer from NYC.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning typescript
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-PJ-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-kim-a37b59274/?profileId=ACoAAEMXG4sBbkyQWX2zOOgEwMqUNGStZ-TmFH4)
+- 💬 Ask me about about Games, Animes, K-dramas, and all kinds of Sports! 
+- ⚡ Fun fact: Placed 2nd in a national junior wallball tournament!
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=koreanpro22&theme=dark&border_radius=8&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
