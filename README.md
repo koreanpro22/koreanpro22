@@ -4,7 +4,7 @@
 I am a Full Stack Developer from NYC.
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning various AWS services
+- 🌱 I’m currently learning Django
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-PJ-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-kim-a37b59274/?profileId=ACoAAEMXG4sBbkyQWX2zOOgEwMqUNGStZ-TmFH4)
 - 💬 Ask me about about Games, Animes, K-dramas, and all kinds of Sports! 
 - ⚡ Fun fact: Placed 2nd in a national junior wallball tournament!
