@@ -6,12 +6,10 @@ I am a Full Stack Developer from NYC.
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning Next.js
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-PJ-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-kim-a37b59274/?profileId=ACoAAEMXG4sBbkyQWX2zOOgEwMqUNGStZ-TmFH4)
-- 💬 Ask me about about Games, Animes, K-dramas, and all kinds of Sports! 
+- 💬 Ask me about about FPS Games, Animes, K-dramas, and all kinds of Sports!
 - ⚡ Fun fact: Placed 2nd in a national junior wallball tournament!
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=koreanpro22&theme=dark&border_radius=8&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreanpro22&show_icons=true&theme=tokyonight)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
 
